@@ -1,0 +1,8 @@
+ lunch				250
+ coffee				100
+ lunch				300
+ lunch				550
+ service				500
+ dinner				400
+ s pool				200
+ lunch				300
